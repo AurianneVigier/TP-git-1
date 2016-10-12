@@ -1,4 +1,4 @@
- ### application.bat - 2016 - Bour Charlotte ###
+ ### application.bat - 2016 - Bour Charlotte, Aurianne Vigier ###
 
 echo "version 2"
 build_hour="11h00"
